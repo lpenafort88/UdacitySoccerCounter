@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Soccer Counter</string>
+    <string-array name="soccer_events">
+        <item>GOAL</item>
+        <item>YELLOW</item>
+        <item>RED</item>
+    </string-array>
 </resources>
